@@ -1,7 +1,7 @@
 # Monte-Carlo
-DePaul University CDM course's, CSC 521, final project, finished with Python.
+I had taken the CDM course CSC 521 Monte Carlo Algorithim in 2017-2018 winter quarter, and here is the final project finished with Python.
 
-Here is the Professor's requirement.
+Professor's requirement posted below.
 
 # Problem 3 (the fun problem)
 
